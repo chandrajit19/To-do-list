@@ -20,6 +20,6 @@ I have designed and implemented a feature-rich To-Do List application using HTML
 - JavaScript for dynamic task management and local storage integration.
 
 *Project Link:*
-[ToDoListApp]([your-github-repository-link](https://chandrajit19.github.io/To-do-list/))
+[ToDoListApp][(https://chandrajit19.github.io/To-do-list/]
 
 By exploring this project, you will gain insights into my ability to create practical and efficient web applications. I look forward to discussing how my skills align with your team's requirements.
